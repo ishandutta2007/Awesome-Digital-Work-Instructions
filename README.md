@@ -62,54 +62,54 @@ The table below details leading enterprise SaaS platforms for digital work instr
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore community-driven, self-hosted, and open-source solutions for digital work instructions, MES work order guidance, and SOP wikis. *Entries are sorted by GitHub Star count in descending order.*
+Explore community-driven, self-hosted, and open-source solutions for digital work instructions, MES work order guidance, and SOP wikis. *Entries are sorted by GitHub Stars_Count in descending order.*
 
 1. 🌟 **[Odoo Manufacturing & Quality](https://github.com/odoo/odoo)**  
-   [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
    *Comprehensive open-source ERP featuring work order routing, interactive quality worksheets, shop-floor tablet views, and operator instruction triggers.*
 
 2. 🌟 **[ERPNext Manufacturing](https://github.com/frappe/erpnext)**  
-   [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    *Flexible open-source enterprise suite with built-in manufacturing modules, Bill of Materials (BOM) management, and workstation step guidance.*
 
 3. 🌟 **[BookStack](https://github.com/BookStackApp/BookStack)**  
-   [![GitHub stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)  
    *Opinionated, elegant documentation platform widely deployed for organizing hierarchical SOPs, safety instructions, and versioned factory knowledge bases.*
 
 4. 🌟 **[DokuWiki](https://github.com/dokuwiki/dokuwiki)**  
-   [![GitHub stars](https://img.shields.io/github/stars/dokuwiki/dokuwiki?style=social&color=white)](https://github.com/dokuwiki/dokuwiki/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/dokuwiki/dokuwiki?style=social&color=white)](https://github.com/dokuwiki/dokuwiki/stargazers)  
    *Ultra-lightweight, file-based open wiki engine popular in industrial facilities for low-maintenance, version-controlled standard work documentation.*
 
 5. 🌟 **[Carbon ERP / MES](https://github.com/crbnos/carbon)**  
-   [![GitHub stars](https://img.shields.io/github/stars/crbnos/carbon?style=social&color=white)](https://github.com/crbnos/carbon/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/crbnos/carbon?style=social&color=white)](https://github.com/crbnos/carbon/stargazers)  
    *Modern open-source ERP, MES, and QMS system offering digital traveler cards, live factory model synchronization, and step-by-step assembly routines.*
 
 6. 🌟 **[metasfresh ERP](https://github.com/metasfresh/metasfresh)**  
-   [![GitHub stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)  
    *Open-source enterprise ERP platform with real-time shop-floor execution tracking, production routing, and quality assurance instructions.*
 
 7. 🌟 **[Node-OPCUA](https://github.com/node-opcua/node-opcua)**  
-   [![GitHub stars](https://img.shields.io/github/stars/node-opcua/node-opcua?style=social&color=white)](https://github.com/node-opcua/node-opcua/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/node-opcua/node-opcua?style=social&color=white)](https://github.com/node-opcua/node-opcua/stargazers)  
    *Full-stack Industrial IoT OPC UA protocol implementation in TypeScript/Node.js used to connect physical machine events with visual work instruction screens.*
 
 8. 🌟 **[Apache OFBiz](https://github.com/apache/ofbiz-framework)**  
-   [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)  
    *Enterprise automation suite providing open-source Manufacturing Resource Planning (MRP), process routing, and work order execution tools.*
 
 9. 🌟 **[qcadoo MES](https://github.com/qcadoo/mes)**  
-   [![GitHub stars](https://img.shields.io/github/stars/qcadoo/mes?style=social&color=white)](https://github.com/qcadoo/mes/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/qcadoo/mes?style=social&color=white)](https://github.com/qcadoo/mes/stargazers)  
    *Web-based open-source Manufacturing Execution System tailored for SMB factories to manage work orders, schedules, and step-by-step instructions.*
 
 10. 🌟 **[Open Factory Twin (OFACT)](https://github.com/openfactorytwin/ofact)**  
-    [![GitHub stars](https://img.shields.io/github/stars/openfactorytwin/ofact?style=social&color=white)](https://github.com/openfactorytwin/ofact/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/openfactorytwin/ofact?style=social&color=white)](https://github.com/openfactorytwin/ofact/stargazers)  
     *Open-source digital twin framework designed to synchronize physical production lines with digital work instruction interfaces and IoT feedback.*
 
 11. 🌟 **[SOP Rocket](https://github.com/dylanpjenkins/sop-rocket)**  
-    [![GitHub stars](https://img.shields.io/github/stars/dylanpjenkins/sop-rocket?style=social&color=white)](https://github.com/dylanpjenkins/sop-rocket/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/dylanpjenkins/sop-rocket?style=social&color=white)](https://github.com/dylanpjenkins/sop-rocket/stargazers)  
     *Open-source desktop app for fast SOP authoring—capturing step screenshots, annotations, and exporting to clean PDF, DOCX, and Markdown files.*
 
 12. 🌟 **[Vision Prep](https://github.com/Azzbo77/Vision-Prep)**  
-    [![GitHub stars](https://img.shields.io/github/stars/Azzbo77/Vision-Prep?style=social&color=white)](https://github.com/Azzbo77/Vision-Prep/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/Azzbo77/Vision-Prep?style=social&color=white)](https://github.com/Azzbo77/Vision-Prep/stargazers)  
     *Visual step-by-step assembly instruction platform built for modular build steps, annotated photos, progress logging, and live build reporting.*
 
 ---
@@ -131,7 +131,7 @@ Contributions are warmly welcomed to keep this awesome list accurate and up-to-d
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or update** entries in `README.md` following the established table / badge structure.
-3. 🔍 Ensure descriptions are objective, concise, and include exact starting pricing or star badges where appropriate.
+3. 🔍 Ensure descriptions are objective, concise, and include exact starting pricing or Stars_Badges where appropriate.
 4. 📥 Submit a **Pull Request** with a clear explanation of your additions.
 
 Explore more curated awesome repositories at **[Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)**!
